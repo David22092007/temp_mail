@@ -1,2 +1,1 @@
-# temp_mail
-temp mail API
+TEMP MAIL LOL 
