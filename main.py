@@ -18,7 +18,7 @@ def main_sourse():
     try:
         json_data = {
             'address': str(mail)+'@'+domain+'',
-            'password': 'linkmilo',
+            'password': 'lasldjlaskdjkjk',
         }
 
         response = requests.post('https://api.mail.tm/token', headers=headers, json=json_data).text
